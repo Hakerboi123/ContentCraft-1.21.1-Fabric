@@ -3,13 +3,16 @@
 	"id": "contentcraft",
 	"version": "${version}",
 	"name": "ContentCraft",
-	"description": "This is an example description! Tell everyone what your mod is about!",
+	"description": "Do you feel like minecraft has become boring? Well Contentcraft is here to fix that! meet the all in one mod fixing minecrafts progression, advancements, items and way more!",
 	"authors": [
-		"Me!"
+		"Lead Dev: Hakerboi, ",
+		"Contributors & coding help: ",
+		"- Azudin: Textures"
 	],
 	"contact": {
-		"homepage": "https://fabricmc.net/",
-		"sources": "https://github.com/FabricMC/fabric-example-mod"
+		"homepage": "https://modrinth.com/project/contentcraft",
+		"sources": "https://github.com/Hakerboi123/ContentCraft-1.21.1-Fabric",
+		"discord": "https://discord.gg/zkyvsB3xAz"
 	},
 	"license": "CC0-1.0",
 	"icon": "assets/contentcraft/icon.png",
